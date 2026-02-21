@@ -1,1 +1,1 @@
-declare module "simplelightbox" {}
+src/types/simplelightbox.d.ts
